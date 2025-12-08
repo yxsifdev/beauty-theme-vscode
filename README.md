@@ -1,16 +1,32 @@
-# beauty-theme README
+# 🌸 Beauty Theme for VS Code
 
-## Working with Markdown
+**Beauty Theme** is a modern, soft, and visually balanced theme for Visual Studio Code.  
+It provides a comfortable, elegant, and clear coding experience across all languages.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+---
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## 📦 Badges
 
-## For more information
+<p align="left">
+  <img src="https://img.shields.io/badge/version-1.0.0-ff79c6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/license-MIT-8be9fd?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/theme-dark-ffb86c?style=for-the-badge" />
+</p>
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+---
 
-**Enjoy!**
+## 📥 Installation
+
+1. Open **VS Code**  
+2. Go to **Extensions**  
+3. Search for **Beauty Theme**  
+4. Install it and activate it via  
+   - `Ctrl + Shift + P → Color Theme → Beauty Theme`
+
+---
+
+## 🙌 Inspiration
+
+Partially inspired by the aesthetic of **Horizon Theme**.
+
+> 📝 **MIT License**
