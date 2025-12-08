@@ -3,9 +3,13 @@
   "displayName": "Beauty Theme",
   "description": "A simple but beautiful theme designed to make your editor feel clean and calming",
   "publisher": "yxsifdev",
-  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yxsifdev/beauty-theme-vscode"
+  },
+  "version": "1.0.0",
   "license": "MIT",
-  "icon": "logo.png",
+  "icon": "icon.jpg",
   "engines": {
     "vscode": "^1.106.1"
   },
@@ -17,7 +21,7 @@
       {
         "label": "Beauty Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Beauty Theme-color-theme.json"
+        "path": "./themes/beauty-theme-color-theme.json"
       }
     ]
   }
