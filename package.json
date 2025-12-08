@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/yxsifdev/beauty-theme-vscode"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "icon": "icon.jpg",
   "engines": {
@@ -21,7 +21,7 @@
       {
         "label": "Beauty Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/beauty-theme-color-theme.json"
+        "path": "./themes/Beauty Theme-color-theme.json"
       }
     ]
   }
