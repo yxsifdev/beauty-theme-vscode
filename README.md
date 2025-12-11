@@ -8,7 +8,7 @@ It provides a comfortable, elegant, and clear coding experience across all langu
 ## 📦 Badges
 
 <p align="left">
-  <img src="https://img.shields.io/badge/version-1.0.1-ff79c6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/version-1.1.0-ff79c6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/license-MIT-8be9fd?style=for-the-badge" />
   <img src="https://img.shields.io/badge/theme-dark-ffb86c?style=for-the-badge" />
 </p>
